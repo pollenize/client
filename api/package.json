@@ -17,7 +17,7 @@
     "nodemon": "^1.19.1"
   },
   "dependencies": {
-    "apollo-server-express": "^2.7.0",
+    "apollo-server-express": "^2.14.2",
     "basic-auth": "^2.0.1",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
